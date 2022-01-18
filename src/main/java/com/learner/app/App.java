@@ -1,7 +1,7 @@
 package com.learner.app;
 
 /**
- * Hello world! This is Java project
+ * Hello world! This is Java project-connected+jenkins+git
  *
  */
 public class App 
